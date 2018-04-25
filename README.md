@@ -12,6 +12,8 @@
 
 Part 1: Stereo Reconstruction 
 
-    -
+    -change to .pcd 
 
 Part 2: Virtual Reality Experience 
+
+    -modify webvr_vive_dragging.html in three.js
