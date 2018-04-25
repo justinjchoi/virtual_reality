@@ -12,7 +12,7 @@
 
 Part 1: Stereo Reconstruction 
 
-    -change to .pcd 
+    -change to .ply to .pcd 
 
 Part 2: Virtual Reality Experience 
 
