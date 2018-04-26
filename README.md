@@ -8,7 +8,7 @@
 
     -Stereo pair images (http://vision.middlebury.edu/stereo/data/scenes2014/) 
     
-    - Hardware (GPU, Oculus Rift Touch and Firefox Browser) 
+    -Hardware (GPU, Oculus Rift Touch and Firefox Browser) 
 
 Part 1: Stereo Reconstruction 
 
